@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: jc0npp57f-java-springboot-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/jc0npp57f-java-springboot
